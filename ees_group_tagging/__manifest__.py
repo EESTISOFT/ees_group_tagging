@@ -1,0 +1,19 @@
+{
+    'name': 'EESTISOFT group tagging',
+    'version': '12.0.4.8',
+    'author': 'EESTISOFT',
+    'category': 'Productivity',
+    'website': 'https://eestisoft.com',
+    'sequence': 2,
+    'summary': 'Adds group tag / untagging for partners',
+    'description': """
+Adds group tag / untagging for partners.
+	
+Made with love.
+    """,
+    'depends': ['base','contacts'],
+    'data': ['views/ees_group_tagging.xml','views/ir.model.access.csv'],
+    'installable': True,
+    'application': True,
+    'auto_install': False
+}
