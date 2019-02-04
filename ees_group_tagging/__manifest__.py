@@ -1,7 +1,7 @@
 {
     'name': 'EESTISOFT group tagging',
     'version': '12.0.4.8',
-    'author': 'EESTISOFT, ''Hideki Yamamoto, ''Giulio Milani',
+    'author': 'EESTISOFT, ''Hideki Yamamoto, ''Tiago Magrini Rigo',
 	'mantainer':'EESTISOFT',
 	'license':'LGPL-3',
     'category': 'Productivity',
