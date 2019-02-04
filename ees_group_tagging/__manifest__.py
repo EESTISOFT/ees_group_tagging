@@ -1,7 +1,9 @@
 {
     'name': 'EESTISOFT group tagging',
     'version': '12.0.4.8',
-    'author': 'EESTISOFT',
+    'author': 'EESTISOFT, ''Hideki Yamamoto',
+	'mantainer':'EESTISOFT',
+	'license':'LGPL-3',
     'category': 'Productivity',
     'website': 'https://eestisoft.com',
     'sequence': 2,
@@ -11,6 +13,7 @@ Adds group tag / untagging for partners.
 	
 Made with love.
     """,
+	'images':['thumb.png'],
     'depends': ['base','contacts'],
     'data': ['views/ees_group_tagging.xml','views/ir.model.access.csv'],
     'installable': True,
