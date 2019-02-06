@@ -5,6 +5,7 @@
 	'mantainer':'EESTISOFT',
 	'license':'LGPL-3',
     'category': 'Productivity',
+	'support':'odoo@eestisoft.com',
     'website': 'https://eestisoft.com',
     'sequence': 2,
     'summary': 'Adds group tag / untagging for partners',
